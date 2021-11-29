@@ -40,7 +40,7 @@ global.linkGC = ['https://chat.whatsapp.com/CiypUhAJYSg9PCOVrVKBLQ, https://chat
 global.channelYT = ['https://youtube.com/channel/UCjfQUhw550WDZv31eJQaehw'] 
 global.owner = ['6281212083267']// Put your number here
 global.mods = ['6281212083267'] // Want some help?
-global.prems = ['6287886674599', '6281212083267','6285947322310','6281388218284','6285382317734','6283895646213','6281413049152','6285955110056','6289516394766','6285742344873','62895611355890','6288211419255'] // Premium user has unlimited limit
+global.prems = ['6287886674599', '6281212083267','6285947322310','6281388218284','994407118870'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -71,7 +71,7 @@ global.APIKeys = { // APIKey Here
 global.packname = ''
 global.author = ''
 
-global.multiplier = 1000 // The higher, The harder levelup
+global.multiplier = 500 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
